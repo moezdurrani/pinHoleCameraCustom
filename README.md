@@ -2,7 +2,7 @@
 <h1 align="center">Pin Hole Camera with Custom Functions</h1>
 
 <p align="right">
-  <table align="center" style="border: 2px solid #0366d6; border-collapse: collapse; margin: 25px auto;">
+  <table align="right" style="border: 2px solid #0366d6; border-collapse: collapse; margin: 25px auto;">
     <tr>
       <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://example.com/link1" style="text-decoration: none; color: #0366d6; font-weight: bold;">First Link</a></td>
     </tr>
