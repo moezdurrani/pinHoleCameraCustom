@@ -4,16 +4,19 @@
 <p align="right">
   <table align="right" style="border: 2px solid #0366d6; border-collapse: collapse; margin: 25px auto;">
     <tr>
-      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://example.com/link1" style="text-decoration: none; color: #0366d6; font-weight: bold;">First Link</a></td>
+      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/ChromaticAberration" style="text-decoration: none; color: #0366d6; font-weight:   bold;">Main Repository</a></td>
     </tr>
     <tr style="background-color: #f6f8fa;">
-      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://example.com/link2" style="text-decoration: none; color: #0366d6; font-weight: bold;">Second Link</a></td>
+      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/tinyRayTracer" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer C++</a></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://example.com/link3" style="text-decoration: none; color: #0366d6; font-weight: bold;">Third Link</a></td>
+      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/TinyRayTracerPython" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer with obj Reader Python</a></td>
     </tr>
     <tr style="background-color: #f6f8fa;">
-      <td align="center" style="padding: 12px 20px;"><a href="https://example.com/link4" style="text-decoration: none; color: #0366d6; font-weight: bold;">Fourth Link</a></td>
+      <td align="center" style="padding: 12px 20px;"><a href="https://github.com/moezdurrani/pinHoleCameraCustom" style="text-decoration: none; color: #0366d6; font-weight: bold;">Pin Hole Camera with Custom Classes</a></td>
+    </tr>
+    <tr style="background-color: #f6f8fa;">
+      <td align="center" style="padding: 12px 20px;"><a href="https://github.com/moezdurrani/pinHoleCameraNumpy" style="text-decoration: none; color: #0366d6; font-weight: bold;">Pin Hole Camera with Numpy</a></td>
     </tr>
   </table>
 </p>
