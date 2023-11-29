@@ -4,7 +4,7 @@
 <p align="left">
   <table align="right" style="border: 2px solid #0366d6; border-collapse: collapse; margin: 25px auto;">
     <tr>
-      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/ChromaticAberration" style="text-decoration: none; color: #0366d6; font-weight:   bold;">Main Repository</a></td>
+      <td align="left" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/ChromaticAberration" style="text-decoration: none; color: #0366d6; font-weight:   bold;">Main Repository</a></td>
     </tr>
     <tr style="background-color: #f6f8fa;">
       <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/tinyRayTracer" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer C++</a></td>
