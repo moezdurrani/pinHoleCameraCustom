@@ -7,16 +7,16 @@
       <td align="left" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/ChromaticAberration" style="text-decoration: none; color: #0366d6; font-weight:   bold;">Main Repository</a></td>
     </tr>
     <tr style="background-color: #f6f8fa;">
-      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/tinyRayTracer" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer C++</a></td>
+      <td align="left" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/tinyRayTracer" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer C++</a></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/TinyRayTracerPython" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer with obj Reader Python</a></td>
+      <td align="left" style="padding: 12px 20px; border-bottom: 1px solid #ddd;"><a href="https://github.com/moezdurrani/TinyRayTracerPython" style="text-decoration: none; color: #0366d6; font-weight: bold;">Ray Tracer with obj Reader Python</a></td>
     </tr>
     <tr style="background-color: #f6f8fa;">
-      <td align="center" style="padding: 12px 20px;"><a href="https://github.com/moezdurrani/pinHoleCameraCustom" style="text-decoration: none; color: #0366d6; font-weight: bold;">Pin Hole Camera with Custom Classes</a></td>
+      <td align="left" style="padding: 12px 20px;"><a href="https://github.com/moezdurrani/pinHoleCameraCustom" style="text-decoration: none; color: #0366d6; font-weight: bold;">Pin Hole Camera with Custom Classes</a></td>
     </tr>
-    <tr style="background-color: #f6f8fa;">
-      <td align="center" style="padding: 12px 20px;"><a href="https://github.com/moezdurrani/pinHoleCameraNumpy" style="text-decoration: none; color: #0366d6; font-weight: bold;">Pin Hole Camera with Numpy</a></td>
+    <tr style="background-color: #990cfa;">
+      <td align="left" style="padding: 12px 20px;"><a href="https://github.com/moezdurrani/pinHoleCameraNumpy" style="text-decoration: none; color: #0366d6; font-weight: bold;">Pin Hole Camera with Numpy</a></td>
     </tr>
   </table>
 </p>
