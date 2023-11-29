@@ -1,11 +1,4 @@
-# Pin Hole Camera with Custome Functions
-
-
 <h1 align="center">Pin Hole Camera with Custom Functions</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Custom%20Functions-blue?style=for-the-badge" alt="Custom Functions Badge">
-</p>
 
 <table align="center">
   <tr>
