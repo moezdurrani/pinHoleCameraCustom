@@ -28,6 +28,17 @@
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/pinHoleCameraCustom)
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/pinHoleCameraNumpy)
 
+[![Chromatic Aberration](https://github-readme-stats.vercel.app/api/pin/?username=moezdurrani&repo=ChromaticAberration&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/ChromaticAberration)
+
+[![Tiny Ray Tracer](https://github-readme-stats.vercel.app/api/pin/?username=moezdurrani&repo=tinyRayTracer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/tinyRayTracer)
+
+[![Ray Tracer with obj Reader Python](https://github-readme-stats.vercel.app/api/pin/?username=moezdurrani&repo=TinyRayTracerPython&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/TinyRayTracerPython)
+
+[![Pin Hole Camera with Custom Classes](https://github-readme-stats.vercel.app/api/pin/?username=moezdurrani&repo=pinHoleCameraCustom&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/pinHoleCameraCustom)
+
+[![Pin Hole Camera with Numpy](https://github-readme-stats.vercel.app/api/pin/?username=moezdurrani&repo=pinHoleCameraNumpy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/moezdurrani/pinHoleCameraNumpy)
+
+
 
 
 <table align="center">
