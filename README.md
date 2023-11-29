@@ -1,5 +1,5 @@
 
-<h1 align="center">Pin Hole Camera with Custom Functions</h1>
+<h1 align="left">Pin Hole Camera with Custom Functions</h1>
 
 <p align="right">
   <table align="right" style="border: 2px solid #0366d6; border-collapse: collapse; margin: 25px auto;">
