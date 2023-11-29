@@ -1,7 +1,7 @@
 
 <h1 align="center">Pin Hole Camera with Custom Functions</h1>
 
-<table align="right">
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/moezdurrani/ChromaticAberration">
