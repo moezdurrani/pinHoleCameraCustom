@@ -2,7 +2,7 @@
 
 <table align="center" style="border-collapse: collapse; width: 50%; margin: 0 auto;">
   <tr style="background-color: #f2f2f2;">
-    <td align="center" style="padding: 10px; border: 1px solid #ddd;"><a href="https://example.com/link1" style="text-decoration: none; color: #0366d6;">Link Text 1</a></td>
+    <td align="center" style="padding: 10px; border: 1px solid #ddd;"><a href="https://example.com/link1" style="text-decoration: none; color: #0366d6;">Text here</a></td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px; border: 1px solid #ddd;"><a href="https://example.com/link2" style="text-decoration: none; color: #0366d6;">Link Text 2</a></td>
